@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-konfio-gray-50 text-konfio-gray-900 antialiased;
+}
